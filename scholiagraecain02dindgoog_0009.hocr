@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiagraecain02dindgoog_0009.png"; bbox 0 0 821 1442; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 168 464 622 553">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 168 464 622 553">
+     <span class='ocr_line' id='line_1_1' title="bbox 286 464 500 494; baseline 0.023 -5"><span class='ocrx_word' id='word_1_1' title='bbox 286 464 394 491; x_wconf 70' lang='lat' dir='ltr'><em>uenam</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 403 467 439 492; x_wconf 71' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_3' title='bbox 451 468 500 494; x_wconf 69' lang='lat' dir='ltr'>ruf</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 168 500 622 553; baseline 0.02 -29"><span class='ocrx_word' id='word_1_4' title='bbox 168 500 262 526; x_wconf 71' lang='lat' dir='ltr'>mmo</span> <span class='ocrx_word' id='word_1_5' title='bbox 273 501 406 553; x_wconf 40' lang='lat' dir='ltr'>glsssafssffio</span> <span class='ocrx_word' id='word_1_6' title='bbox 418 504 454 529; x_wconf 67' lang='lat' dir='ltr'>de,</span> <span class='ocrx_word' id='word_1_7' title='bbox 465 505 622 533; x_wconf 67' lang='lat' dir='ltr'>tmsrfffllrr.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 255 558 514 807">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 255 558 514 807">
+     <span class='ocr_line' id='line_1_3' title="bbox 255 558 514 807; baseline 0 635"><span class='ocrx_word' id='word_1_8' title='bbox 255 558 514 807; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 350 855 454 872">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 350 855 454 872">
+     <span class='ocr_line' id='line_1_4' title="bbox 350 855 454 872; baseline 0.01 -1"><span class='ocrx_word' id='word_1_9' title='bbox 350 855 454 872; x_wconf 79' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 207 908 592 924">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 207 908 592 924">
+     <span class='ocr_line' id='line_1_5' title="bbox 207 908 592 924; baseline 0.003 -1"><span class='ocrx_word' id='word_1_10' title='bbox 207 909 264 924; x_wconf 75' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_11' title='bbox 282 909 297 924; x_wconf 83' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_12' title='bbox 314 908 331 923; x_wconf 69' lang='lat' dir='ltr'>O⁴</span> <span class='ocrx_word' id='word_1_13' title='bbox 348 909 429 924; x_wconf 77' lang='lat' dir='ltr'>WEIGEL</span> <span class='ocrx_word' id='word_1_14' title='bbox 446 908 592 924; x_wconf 73' lang='lat' dir='ltr'>SUOCESSOREM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 314 953 488 967">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 314 953 488 967">
+     <span class='ocr_line' id='line_1_6' title="bbox 314 953 488 967; baseline 0.011 -3"><span class='ocrx_word' id='word_1_15' title='bbox 314 953 340 967; x_wconf 74' lang='lat' dir='ltr'>(m.</span> <span class='ocrx_word' id='word_1_16' title='bbox 348 954 393 965; x_wconf 74' lang='lat' dir='ltr'>unu.</span> <span class='ocrx_word' id='word_1_17' title='bbox 401 954 488 967; x_wconf 68' lang='lat' dir='ltr'><strong>numm)</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
